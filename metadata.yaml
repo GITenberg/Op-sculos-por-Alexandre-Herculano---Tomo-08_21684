@@ -1,0 +1,43 @@
+_repo: Op-sculos-por-Alexandre-Herculano---Tomo-08_21684
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Herculano, Alexandre
+    aliases:
+    - Herculano, Alejandro
+    - Carvalho e Araujo, Alexandre Herculano de
+    - De Carvalho e Araújo, Alexandre Herculano
+    - Araujo, Alexandre Herculano de Carvalho e
+    - Herculano, A. (Alexandre)
+    birthdate: 1810
+    deathdate: 1877
+    gutenberg_agent_id: '3118'
+    url: http://www.gutenberg.org/2009/agents/3118
+    wikipedia:
+    - http://pt.wikipedia.org/wiki/Alexandre_Herculano
+    - http://en.wikipedia.org/wiki/Alexandre_Herculano_de_Carvalho_e_Araujo
+description: ''
+edition_note: 1ª edição
+gutenberg_issued: '2007-06-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21684'
+language: pt
+language_note: This ebook uses a spelling from the beginning of the 20th century
+production_note: "Produced by Diogo Mena Reis and Rita Farinha (This file was\r\n\
+  produced from images generously made available by National\r\nLibrary of Portugal\
+  \ (Biblioteca Nacional de Portugal)"
+publication_note: "Lisboa:\r\nTavares Cardoso & Irmão--Editores\r\n5, Largo de Camões,\
+  \ 6\r\nTyp. a vapor da Empreza Litteraria e Typographica\r\n178, rua de D. Pedro,\
+  \ 184--Porto\r\n1901"
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Portuguese literature -- 19th century'
+title: Opúsculos por Alexandre Herculano - Tomo 08
+url: http://www.gutenberg.org/ebooks/21684
